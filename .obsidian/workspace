@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "4995d22e7b95a5ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "715cfc87892572c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "笔记/学习/C&C++/Essential C++.md",
+            "mode": "source"
+          }
+        },
+        "group": "133b52b831983915"
+      },
+      {
+        "id": "c0d01ef8828a8458",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "笔记/学习/C&C++/Essential C++.md",
+            "mode": "preview"
+          }
+        },
+        "group": "133b52b831983915"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45f4585e9b93328e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d370b607f5fcd92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0107feade2c33cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52cb9f69570088d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "403b8d120ab5af47",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba47c85adc4eca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf86ce779f1be28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/学习/C&C++/Essential C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "715cfc87892572c8",
+  "lastOpenFiles": [
+    "笔记/学习/C&C++/Essential C++.md",
+    "笔记/学习/C&C++/内存对齐详解.md",
+    "笔记/学习/C&C++/宏编程.md",
+    "笔记/学习/源码阅读笔记/源码阅读模板.md",
+    "笔记/学习/读书笔记/深入理解计算机系统.md",
+    "深入理解计算机系统.md",
+    "未命名.md",
+    "笔记/学习/C&C++/未命名.md"
+  ]
+}
