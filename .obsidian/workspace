@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "笔记/学习/读书笔记/深入理解计算机系统.md",
+            "file": "笔记/学习/C&C++/Essential C++.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "笔记/学习/读书笔记/深入理解计算机系统.md",
+            "file": "笔记/学习/C&C++/Essential C++.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/学习/读书笔记/深入理解计算机系统.md",
+                "file": "笔记/学习/C&C++/Essential C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "10e9db1a55a97f62",
   "lastOpenFiles": [
-    "笔记/学习/读书笔记/深入理解计算机系统.md",
     "笔记/学习/C&C++/Essential C++.md",
+    "笔记/学习/读书笔记/深入理解计算机系统.md",
     "Pasted image 20210825001145.png",
     "深入理解计算机系统.md"
   ]
